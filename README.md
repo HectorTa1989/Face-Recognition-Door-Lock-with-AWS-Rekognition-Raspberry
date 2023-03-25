@@ -14,19 +14,15 @@ Face Recognition Door Lock with AWS Rekognition &amp; Raspberry Pi3 it works wit
 
 #### 1.Raspberry Pi (Any Version Will Work)
 
-<img src="img/rpi.png">
 
 #### 2.Raspberry Pi Camera (Also USB Webcam Can Be Used)
 
-<img src="img/rpicam.jpg">
 
 #### 3.Push Button
 
-<img src="img/push.png">
 
 #### 4.Electric Door Lock
 
-<img src="img/edl.jpg" height="350">
 
 
 
